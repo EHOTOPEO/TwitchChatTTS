@@ -1,0 +1,8 @@
+github.com/asticode/go-texttospeech v0.0.0-20160101142234-47f8213c061c h1:3cetmkn9nMY95fqIuAWLZFKLDcfYsaOyD90hdvw0CMQ=
+github.com/asticode/go-texttospeech v0.0.0-20160101142234-47f8213c061c/go.mod h1:VcbjMuNo/29nBNpnaDJN+seiP7Cz5njVYefocM8fBIw=
+github.com/gempir/go-twitch-irc/v3 v3.0.0 h1:e34R+9BdKy+qrO/wN+FCt+BUtyn38gCnJuKWscIKbl4=
+github.com/gempir/go-twitch-irc/v3 v3.0.0/go.mod h1:/W9KZIiyizVecp4PEb7kc4AlIyXKiCmvlXrzlpPUytU=
+github.com/go-ole/go-ole v1.2.6 h1:/Fpf6oFPoeFik9ty7siob0G6Ke8QvQEuVcuChpwXzpY=
+github.com/go-ole/go-ole v1.2.6/go.mod h1:pprOEPIfldk/42T2oK7lQ4v4JSDwmV0As9GaiUsvbm0=
+golang.org/x/sys v0.0.0-20190916202348-b4ddaad3f8a3 h1:7TYNF4UdlohbFwpNH04CoPMp1cHUZgO1Ebq5r2hIjfo=
+golang.org/x/sys v0.0.0-20190916202348-b4ddaad3f8a3/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
